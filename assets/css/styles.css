@@ -397,7 +397,7 @@ header .container {
     position: relative;
     border-radius: var(--border-radius-md);
     overflow: hidden;
-    box-shadow: var(--shadow-md);
+/*     box-shadow: var(--shadow-md); */
     transition: transform var(--transition-normal), box-shadow var(--transition-normal);
     max-width: 350px;
     margin: 0 auto;
