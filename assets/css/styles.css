@@ -401,6 +401,7 @@ header .container {
     transition: transform var(--transition-normal), box-shadow var(--transition-normal);
     max-width: 350px;
     margin: 0 auto;
+    cursor: pointer;
 }
 
 .image-container:hover {
@@ -409,7 +410,6 @@ header .container {
 }
 
 .image-container::after {
-    content: '';
     position: absolute;
     top: 0;
     left: 0;
