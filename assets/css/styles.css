@@ -401,7 +401,7 @@ header .container {
     transition: transform var(--transition-normal), box-shadow var(--transition-normal);
     max-width: 350px;
     margin: 0 auto;
-    background: none;
+    background-color: none;
 }
 
 .image-container:hover {
